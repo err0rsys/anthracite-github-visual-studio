@@ -2,7 +2,7 @@
 Dark theme for Visual Studio 2019 based on GitHub 2021 web color scheme and VS2017 theme by Nicolas Constant
 
 ## Screenshot
-![screen 1](https://github.com/err0rsys/anthracite-github-visual-studio/capture.png "screen capture")
+![screen 1](https://github.com/err0rsys/anthracite-github-visual-studio/blob/main/capture.png "screen capture")
 
 ## Install 
 1. Install [Color Theme Editor for Visual Studio 2019](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.VisualStudio2019ColorThemeEditor)
